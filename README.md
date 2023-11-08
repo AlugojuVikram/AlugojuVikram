@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vikram</h1> 
 
-<p align="left"> <img src="" alt="vikramm" /> </p>
+<p align="left"> <img src="" alt="vikram" /> </p>
 
 - 🌱 **Full stack Developer**
 
 - 📫 How to reach me **vicky.vikram.71099@gmail.com**
 
 
-<p>	<img align="center" src="" alt="vikramm" /></p>
+<p>	<img align="center" src="" alt="vikram" /></p>
 
 <p align="center">
 Linkedin
